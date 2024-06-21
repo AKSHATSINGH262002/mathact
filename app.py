@@ -1,7 +1,5 @@
 import streamlit as st
 from PIL import Image
-import os 
-import cv2
 from pytesseract import pytesseract 
 import  matplotlib.pyplot as plt
 import numpy as np
