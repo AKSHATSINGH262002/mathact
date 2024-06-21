@@ -1,5 +1,5 @@
 streamlit 
-matplotlib.pyplot
+matplotlib==3.9.0
 numpy
 PIL
 pytesseract
